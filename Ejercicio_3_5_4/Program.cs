@@ -19,7 +19,7 @@ namespace Ejercicio_3_5_4
             }
             else
             {
-                Console.WriteLine(ambosPares);
+                Console.WriteLine(ambosPares + " abduscan");
             }
             
         }
