@@ -26,7 +26,7 @@ namespace Ejercicio_3_5_4
             {
                 Console.WriteLine("JEFE DE EQUIPO ESTOY A TOPE");
             }
-            
+            // pito corto quien lo lea ajajjajajaa xd saludos, posdata te gusta el lol ya me joderia
         }
     }
 }
