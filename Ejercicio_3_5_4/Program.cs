@@ -19,7 +19,7 @@ namespace Ejercicio_3_5_4
             }
             else
             {
-                Console.WriteLine(ambosPares + " abduscan al a juak polla");
+                Console.WriteLine(ambosPares + " penelope van pene estuvo aqui");
             }
 
             while (true)
