@@ -21,6 +21,11 @@ namespace Ejercicio_3_5_4
             {
                 Console.WriteLine(ambosPares + " abduscan");
             }
+
+            while (true)
+            {
+                Console.WriteLine("JEFE DE EQUIPO ESTOY A TOPE");
+            }
             
         }
     }
